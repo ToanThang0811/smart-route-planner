@@ -1,9 +1,9 @@
-flask==2.3.3
+Flask==2.3.3
 folium==0.14.0
-osmnx==1.6.0
-networkx==3.1
 geopy==2.3.0
 requests==2.31.0
-shapely==2.0.1
+networkx==3.1
 fuzzywuzzy==0.18.0
 python-levenshtein==0.21.1
+osmnx==1.7.0
+shapely>=2.0.2
